@@ -73,7 +73,9 @@ Enterprise desktop suite for verifying laboratory information system (LIS) conne
 
 <br/>
 
+- **[ICU-B Connect (Prismaflex CRRT Telemetry)](https://github.com/DinhLucent/ICURealtimeConnect_PrismaFlexOption)** — Real-time telemetry web platform for Baxter Prismaflex continuous renal replacement therapy machines in Intensive Care Units. Integrates serial edge collectors, Mirth Connect HL7 brokers, and Next.js dashboards for bedside transmembrane pressure and fluid balance monitoring.
 - **[Simulation-LIS-Analyzer-CA270](https://github.com/DinhLucent/Simulation-LIS-Analyzer-CA270)** — ASTM E1381/E1394 bidirectional LIS simulator and test harness for Furuno CA270 analyzers. Eliminates physical hardware dependency during laboratory software integration.
+- **[SimulationLIS-9100](https://github.com/DinhLucent/SimulationLIS-9100)** — Nihon Kohden MEK-9100 automated hematology analyzer TCP/IP ASTM LIS host simulator with automatic raw TCP and E1381 frame detection.
 - **[hl7-message-parser](https://github.com/DinhLucent/hl7-message-parser)** — Zero-dependency HL7 v2.x parser and fluent builder in Python. Handles MSH, PID, and OBX segment trees with clinical syntax validation.
 - **[fhir-patient-dashboard](https://github.com/DinhLucent/fhir-patient-dashboard)** — Web interface visualizing FHIR R4 Patient demographics, diagnostic observations, and vital trends.
 - **[geminiweb2api](https://github.com/DinhLucent/geminiweb2api)** — High-concurrency Go proxy service built with Uber-Fx dependency injection, Fiber v3, and automated Docker release workflows.
