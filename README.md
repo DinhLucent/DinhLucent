@@ -57,6 +57,22 @@ graph LR
 
 ## 🏗️ Core Engineering Showcases
 
+### 🔬 [HyperScribe LIS Toolkit](https://github.com/DinhLucent/lis-toolkit-releases) `v0.4.7`
+
+Enterprise desktop suite for verifying laboratory information system (LIS) connectivity, inspecting bidirectional ASTM E1381/E1394 and HL7 v2.x analyzer frames, and simulating clinical chemistry and hematology instruments.
+
+- **Security & Licensing**: Asymmetric Ed25519 cryptographic signatures bound to Windows DPAPI hardware fingerprints.
+- **Self-Service Web Portal**: Automated cloud license provisioning at [lis-license-portal.vercel.app](https://lis-license-portal.vercel.app).
+- **Verified Package**: [Download Official Release (Windows x64)](https://github.com/DinhLucent/lis-toolkit-releases).
+
+<div align="center">
+  <a href="https://github.com/DinhLucent/lis-toolkit-releases">
+    <img src="assets/hyperscribe_preview.png" alt="HyperScribe LIS Toolkit Diagnostic Workbench" width="92%" />
+  </a>
+</div>
+
+<br/>
+
 - **[Simulation-LIS-Analyzer-CA270](https://github.com/DinhLucent/Simulation-LIS-Analyzer-CA270)** — ASTM E1381/E1394 bidirectional LIS simulator and test harness for Furuno CA270 analyzers. Eliminates physical hardware dependency during laboratory software integration.
 - **[hl7-message-parser](https://github.com/DinhLucent/hl7-message-parser)** — Zero-dependency HL7 v2.x parser and fluent builder in Python. Handles MSH, PID, and OBX segment trees with clinical syntax validation.
 - **[fhir-patient-dashboard](https://github.com/DinhLucent/fhir-patient-dashboard)** — Web interface visualizing FHIR R4 Patient demographics, diagnostic observations, and vital trends.
